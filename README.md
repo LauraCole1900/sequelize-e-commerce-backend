@@ -15,7 +15,7 @@
 
 ## Description
 
-This is a CLI e-commerce back-end using MySQL and Sequelize.
+This is a CLI e-commerce back-end using Express, MySQL and Sequelize.
 
 ## Links
 
@@ -57,7 +57,7 @@ $ node server.js
 
 ## Usage
 
-This application is intended to be used to track employees, departments, and roles for an organization.
+This application is intended to demonstrate a sample e-commerce back-end.
 
 ## Technologies Used
 
