@@ -31,6 +31,7 @@ ProductTag.init(
     }
   },
   {
+    underscored: true,
     sequelize,
     timestamps: false,
     freezeTableName: true,
