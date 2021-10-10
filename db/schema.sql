@@ -3,18 +3,3 @@ DROP DATABASE IF EXISTS ecommerce_db;
 
 -- CREATE DATABASE
 CREATE DATABASE ecommerce_db;
-
-CREATE TABLE product (
-  id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
-  product_name VARCHAR(30) NOT NULL,
-  price DECIMAL(8,2) NOT NULL,
-  stock INT NOT NULL
-);
-
-CREATE TABLE tag (
-
-);
-
-CREATE TABLE product_tag (
-
-);
