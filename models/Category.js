@@ -18,7 +18,6 @@ Category.init(
     }
   },
   {
-    underscored: true,
     sequelize,
     timestamps: false,
     freezeTableName: true,
