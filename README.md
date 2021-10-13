@@ -15,7 +15,7 @@
 
 ## Description
 
-This is a CLI e-commerce back-end using Express, MySQL and Sequelize.
+This is a sample, CLI-based e-commerce back-end using Express, MySQL and Sequelize, with route functionality demonstrated using Thunder Client.
 
 ## Links
 
@@ -61,7 +61,7 @@ This application is intended to demonstrate a sample e-commerce back-end.
 
 ## Technologies Used
 
-[![Node.js](https://img.shields.io/badge/built%20with-Node.js-3c873a)](https://nodejs.org/en/) [![Express.js](https://img.shields.io/badge/built%20with-Express.js-303030)](https://expressjs.com/) [![MySQL](https://img.shields.io/badge/built%20with-MySQL-00758f)](https://www.mysql.com/) [![Sequelize](https://img.shields.io/badge/built%20with-Sequelize-399af3)](https://sequelize.org/)
+[![Node.js](https://img.shields.io/badge/built%20with-Node.js-3c873a)](https://nodejs.org/en/) [![Express.js](https://img.shields.io/badge/built%20with-Express.js-303030)](https://expressjs.com/) [![MySQL](https://img.shields.io/badge/built%20with-MySQL-00758f)](https://www.mysql.com/) [![Sequelize](https://img.shields.io/badge/built%20with-Sequelize-399af3)](https://sequelize.org/) [![Thunder Client](https://img.shields.io/badge/built%20with-Thunder%20Client-924e96)](https://www.thunderclient.io/)
 
 ## Tests
 
