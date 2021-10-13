@@ -65,6 +65,7 @@ router.post('/', (req, res) => {
     });
 });
 
+
 // UPDATE product by ID
 router.put('/:id', (req, res) => {
   // update product data
@@ -106,6 +107,7 @@ router.put('/:id', (req, res) => {
       res.status(400).json(err);
     });
 });
+
 
 // DELETE product by ID
 router.delete('/:id', (req, res) => {
