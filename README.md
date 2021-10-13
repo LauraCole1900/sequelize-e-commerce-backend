@@ -19,7 +19,9 @@ This is a sample, CLI-based e-commerce back-end using Express, MySQL and Sequeli
 
 ## Links
 
-[Link to walkthrough video](assets/#.webm) COMING SOON
+[Link to walkthrough video](assets/e-commerce_back-end_demo.webm)
+
+[Alternate link to walkthrough video](https://drive.google.com/file/d/1MceHtE1V9CjiEp4OO7A_0HEYqfxvaAtb/view)
 
 ## Installation Instructions
 
